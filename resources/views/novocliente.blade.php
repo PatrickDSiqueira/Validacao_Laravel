@@ -20,7 +20,7 @@
                     </div>
                 </div>
             <div class="card-body">
-                <form action="/cliente" method="post">
+                <form action="/clientes" method="post">
                     @csrf
                     <div class="form-group">
                         <label for="nome">Nome do Cliente</label>
@@ -39,7 +39,7 @@
                         <input type="text" name="email" id="email" class="form-control" placeholder="E-mail do Cliente">
                     </div>
                     <button type="submit" class="btn btn-primary btn-sm">Salvar</button>
-                    <a type="cancel" class="btn btn-danger btn-sm" href="/cliente">Cancelar</a>
+                    <a type="cancel" class="btn btn-danger btn-sm" href="/">Cancelar</a>
                 </form>
             </div>
             </div>
