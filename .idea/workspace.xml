@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="16be36be-6083-4c0d-bd96-6fc93b93f1e2" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/views/novocliente.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/novocliente.blade.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -148,7 +147,7 @@
       <option name="presentableId" value="Default" />
       <updated>1676470317352</updated>
       <workItem from="1676470318469" duration="900000" />
-      <workItem from="1676471299047" duration="12660000" />
+      <workItem from="1676471299047" duration="12919000" />
     </task>
     <servers />
   </component>

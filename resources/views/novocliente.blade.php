@@ -39,7 +39,7 @@
                                    placeholder="Idade do Cliente">
                             @if($errors -> has('idade'))
                                 <div class="invalid-feedback is-invalid">
-                                    {{$errors->first('nome')}}
+                                    {{$errors->first('idade')}}
                                 </div>
                             @endif
                         </div>
@@ -49,7 +49,7 @@
                                    placeholder="Endereço do Cliente">
                             @if($errors -> has('endereco'))
                                 <div class="invalid-feedback is-invalid">
-                                    {{$errors->first('nome')}}
+                                    {{$errors->first('endereco')}}
                                 </div>
                             @endif
                         </div>
@@ -59,7 +59,7 @@
                                    placeholder="E-mail do Cliente">
                             @if($errors -> has('email'))
                                 <div class="invalid-feedback is-invalid">
-                                    {{$errors->first('nome')}}
+                                    {{$errors->first('email')}}
                                 </div>
                             @endif
                         </div>
